@@ -1,4 +1,5 @@
 import pygame
+import thorpy
 from game import Game, SCREEN_HEIGHT, SCREEN_WIDTH
 def main():
     """Main function of the game"""
